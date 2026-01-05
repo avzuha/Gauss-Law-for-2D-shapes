@@ -15,8 +15,8 @@ An interactive Python application to **verify Gauss's Law** using numerical meth
 ## ⚙️ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/avzuha/Gauss-Law-App.git
-   cd Gauss-Law-App
+   git clone https://github.com/avzuha/Gauss-Law-for-2D-shapes.git
+   cd Gauss-Law-for-2D-shapes
 2. Dependencies
    pip install -r requirements.txt
 3. Program
